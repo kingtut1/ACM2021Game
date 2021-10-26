@@ -18,4 +18,6 @@ git clone https://github.com/kingtut1/ACM2021Game.git
 
 3. Stage the changes 
 
+4. Commit changes
+
 4. Push the changes to the repo
